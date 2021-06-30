@@ -1,0 +1,7 @@
+.vscode
+output
+__pycache__
+.ipynb_checkpoints
+condor
+*.m
+*.mat
